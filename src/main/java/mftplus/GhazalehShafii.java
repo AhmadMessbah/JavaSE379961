@@ -1,6 +1,6 @@
 package mftplus;
 
-public class main2 {
+public class GhazalehShafii {
     public static void main(String[] args) {
         System.out.println("ghazaleh-shafii added!");
     }
